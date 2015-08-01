@@ -11,6 +11,8 @@ public class Tree {
 	public static void setRoot(){
 		root = new Node("start", 0L, 0);
 		currentNode = root;
+		// test 1
+		
 	}
 	
 	public static void insertNode(Long value) {
